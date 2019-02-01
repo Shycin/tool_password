@@ -17,9 +17,9 @@ $(document).ready(function() {
 		var calcul = start + taille - position.height(); //calcul distance élément initial + sa longueur - la taille que va faire le nouvelle élément
 
 		$(this).css({
-	      	"left": ""+calcul+"",
-	      	"height": ""+position.height()+"",
-	      	"width": ""+position.height()+"",
+	      	"left": calcul,
+	      	"height": position.height(),
+	      	"width": position.height(),
 	    });
 	}
 
