@@ -23,8 +23,10 @@ $(document).ready(function() {
 	        		{
 	        			static = 0;
 	        		}
-
-	        		curleft += obj.offsetLeft
+	        		else
+	        		{
+	        			curleft += obj.offsetLeft
+	        		}
 	        	}
 	            
 	        }
