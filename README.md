@@ -2,7 +2,7 @@
 
 auteur : JACQUES Antony
 
-Description : Utiliser tool_password.js pour inclure dans vos projets un bouton pour rendre visible tant que le clic est maintenu les mots de passes de vos champs type = "password"
+Description : Utiliser tool_password.js pour inclure dans vos projets un bouton pour rendre visible les mots de passes de vos champs type = "password" tant que le clic est maintenu 
 
 Utilisation : Pour inclure cet feature vous n'avez qu'à ajouter le fichier tool_password.js à votre projet, où sur vos pages contenants des input de type = "password"
 
